@@ -1,6 +1,6 @@
 layout: page
 title: "Assignment 7"
-permalink: [/URL-PATH](https://merryngrindstaff.github.io)
+permalink: [/URL-PATH](https://merryngrindstaff.github.io/assignment7)
 <!DOCTYPE html>
 
 <html lang="en">
